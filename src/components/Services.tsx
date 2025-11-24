@@ -9,12 +9,12 @@ const services = [
     {
         title: "Skin Care",
         description: "Rejuvenating facials and treatments for glowing, healthy skin.",
-        image: "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=2670&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=2670&auto=format&fit=crop",
     },
     {
         title: "Beauty & Makeup",
         description: "Professional makeup and beauty services for every occasion.",
-        image: "https://images.unsplash.com/photo-1596462502278-27bfdd403348?q=80&w=2666&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1487412947132-23298456b0c0?q=80&w=2670&auto=format&fit=crop",
     },
 ];
 
