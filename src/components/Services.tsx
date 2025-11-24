@@ -4,17 +4,17 @@ const services = [
     {
         title: "Hair Styling",
         description: "Expert cuts, coloring, and styling to frame your face perfectly.",
-        image: "https://images.unsplash.com/photo-1562322140-8baeececf3df?q=80&w=2669&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?q=80&w=2600&auto=format&fit=crop",
     },
     {
         title: "Skin Care",
         description: "Rejuvenating facials and treatments for glowing, healthy skin.",
-        image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=2670&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?q=80&w=2600&auto=format&fit=crop",
     },
     {
         title: "Beauty & Makeup",
         description: "Professional makeup and beauty services for every occasion.",
-        image: "https://images.unsplash.com/photo-1487412947132-23298456b0c0?q=80&w=2670&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?q=80&w=2600&auto=format&fit=crop",
     },
 ];
 

@@ -7,7 +7,7 @@ export default function AboutSection() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div className="relative h-[500px] w-full rounded-lg overflow-hidden border border-white/10">
                         <Image
-                            src="https://images.unsplash.com/photo-1600948836101-f9ffda59d250?q=80&w=2672&auto=format&fit=crop"
+                            src="https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?q=80&w=2600&auto=format&fit=crop"
                             alt="Rad Salons Interior"
                             fill
                             className="object-cover"
